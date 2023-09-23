@@ -180,6 +180,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@primer/octicons-react@^19.8.0":
+  version "19.8.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons-react/-/octicons-react-19.8.0.tgz#f76ec3b3c0bea0c6ceb147d7f2d989e5f149f7e5"
+  integrity sha512-2Z+D7xTloFTLQVRUEbg0pQpe6aTL9RR+8RqBhjkrF+BFuVdM1ENOyjywaGEO7DIkPU5Zxlv0gxSlD85LQxL+sw==
+
 "@rushstack/eslint-patch@^1.3.3":
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.4.0.tgz#77e948b9760bd22736a5d26e335a690f76fda37b"
